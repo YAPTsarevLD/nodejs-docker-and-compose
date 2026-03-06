@@ -4,6 +4,6 @@
 
 IP - 130.193.53.21 
 
-FE - kupi.tsarev.nomorepartiessite.ru
+FE - https://kupi.tsarev.nomorepartiessite.ru
 
-BE - api.kupi.tsarev.nomorepartiessite.ru
+BE - https://api.kupi.tsarev.nomorepartiessite.ru 
